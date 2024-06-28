@@ -1,3 +1,4 @@
+
 # Brain Tumor Segmentation using Lightweight U-Net
 
 ## Overview
@@ -26,6 +27,7 @@ The model is based on the U-Net architecture with several modifications to reduc
 - Batch normalization and ReLU activations.
 - Max pooling for downsampling.
 - UpSampling and concatenation for upsampling.
+  ![unet arch](https://github.com/hiranmayee13/brain-tumor/assets/114985598/8de34063-fb40-4886-a89d-86f11606d753)
 
 ## Training
 The model is trained using the Adam optimizer with a learning rate of 1e-4 and a batch size of 8. Key metrics used during training include pixel accuracy, mean accuracy, mean IoU, and frequency-weighted IoU. Early stopping, model checkpointing, and learning rate reduction are applied to enhance training efficiency.
