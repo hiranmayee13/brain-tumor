@@ -40,6 +40,5 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-segmentation.git
-   cd brain-tumor-segmentation
+   https://github.com/hiranmayee13/brain-tumor.git
 
