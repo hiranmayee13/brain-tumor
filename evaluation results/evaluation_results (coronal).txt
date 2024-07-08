@@ -1,0 +1,5 @@
+Average Pixel Accuracy (%): 99.74609375
+Average Mean Accuracy (%): 94.69250894245899
+Average IoU (%): 78.27838083642388
+Average Mean IoU (%): 89.01009230442173
+Average FWIoU (%): 99.52475722856492
