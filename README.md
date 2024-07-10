@@ -2,7 +2,7 @@
 # Brain Tumor Segmentation using Lightweight U-Net
 
 ## Overview
-This project focuses on the segmentation of brain tumors from MRI scans using a lightweight implementation of the U-Net architecture. The model is designed to provide real-time segmentation without the need for large amounts of training data or additional data augmentation steps. The lightweight U-Net demonstrates promising results on the transversal plane , achieving a mean intersection-over-union (IoU) of 90% and outperforming standard benchmark algorithms.
+This project focuses on the segmentation of brain tumors from MRI scans using a lightweight implementation of the U-Net architecture. The model is designed to provide real-time segmentation without the need for large amounts of training data or additional data augmentation steps. The lightweight U-Net demonstrates promising results on the transversal coronal and sagittal planes  achieving a good intersection-over-union (IoU)  and outperforming standard benchmark algorithms.
 
 ## Table of Contents
 - [Introduction](#introduction)
