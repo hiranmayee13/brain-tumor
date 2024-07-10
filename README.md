@@ -36,7 +36,7 @@ The model is trained using the Adam optimizer with a learning rate of 1e-4 and a
 The model is evaluated on a test set to measure its performance using the aforementioned metrics. The evaluation script generates quantitative metrics and visualizes the segmentation results.
 
 ## Results
-The lightweight U-Net achieves a mean IoU of 90% on the BITE dataset, demonstrating its effectiveness in brain tumor segmentation. where results are saved in evaluation.txt file
+The lightweight U-Net achieves good mean IoU  on the BITE dataset, demonstrating its effectiveness in brain tumor segmentation. where results are saved in evaluation.txt file
 ## Installation
 To set up the project, follow these steps:
 
